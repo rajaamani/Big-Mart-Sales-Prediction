@@ -1,2 +1,2 @@
 # Big-Mart-Sales-Prediction
-This GitHub repository presents an in-depth exploration of various regression models for predicting big sales in a retail context. The project encompasses data analysis, feature engineering, model selection, hyperparameter tuning, and visualization to develop accurate predictive solutions.
+This GitHub repository offers an extensive exploration of diverse regression models employed to predict significant sales in a retail environment. The project encompasses meticulous data analysis, sophisticated feature engineering, and an in-depth evaluation of various regression techniques including Linear Regression, Decision Tree Regression, Random Forest Regression, XG Boosting Regression, and more. 
